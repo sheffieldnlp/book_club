@@ -17,4 +17,4 @@ Bi-weekly machine learning book club, reading the [Deep Learning](https://www.de
 | Ch 2: [Linear Algebra](https://www.deeplearningbook.org/contents/linear_algebra.html)  | George C  | 15:00, 06 Nov 19  | G12-Blue  | 
 |  Ch 3: [Probability and Information Theory](http://www.deeplearningbook.org/contents/prob.html) | Peter V | 15:00, 20 Nov 19  | G12-Blue  | 
 |  Ch 4: [Numerical Computation](http://www.deeplearningbook.org/contents/numerical.html) | Mali | 15:00, 4 Dec 19  | G12-Blue  | 
-|  Ch 5: [Machine Learning Basics](http://www.deeplearningbook.org/contents/ml.html) | TBD | 15:00, 22 Jan 20  | TBD | 
+|  Ch 5: [Machine Learning Basics](http://www.deeplearningbook.org/contents/ml.html) | Yida | 14:00, Jan 24  | G12-Blue | 
