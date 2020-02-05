@@ -18,3 +18,4 @@ Bi-weekly machine learning book club, reading the [Deep Learning](https://www.de
 |  Ch 3: [Probability and Information Theory](http://www.deeplearningbook.org/contents/prob.html) | Peter V | 15:00, 20 Nov 19  | G12-Blue  | 
 |  Ch 4: [Numerical Computation](http://www.deeplearningbook.org/contents/numerical.html) | Mali | 15:00, 4 Dec 19  | G12-Blue  | 
 |  Ch 5: [Machine Learning Basics](http://www.deeplearningbook.org/contents/ml.html) | Yida | 14:00, 24 Jan  | G12-Blue | 
+|  Ch 5: [Machine Learning Basics](http://www.deeplearningbook.org/contents/ml.html) | Yida | 14:00, 07 Feb  | G12-Blue | 
