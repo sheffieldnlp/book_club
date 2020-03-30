@@ -21,4 +21,4 @@ Bi-weekly machine learning book club, reading the [Deep Learning](https://www.de
 |  Ch 5: [Machine Learning Basics](http://www.deeplearningbook.org/contents/ml.html) | Yida | 14:00, 07 Feb 20 | G12-Blue | 
 |  Ch 5: [Machine Learning Basics](http://www.deeplearningbook.org/contents/ml.html) cont 5.6 | Katerina | 14:00, 21 Feb 20 | G12-Blue |
 |  Ch 6: [Deep Feedforward Networks](http://www.deeplearningbook.org/contents/ml.html) | Iknoor | 14:00, 06 Mar 20 | G12-Blue |
-|  Ch 6: [Deep Feedforward Networks](http://www.deeplearningbook.org/contents/ml.html) cont 6.3 | Iknoor | 14:00, 03 Apr 20 | https://meet.google.com/ejb-hezp-qch |
+|  Ch 6: [Deep Feedforward Networks](http://www.deeplearningbook.org/contents/ml.html) cont 6.3 | Iknoor | 14:00, 03 Apr 20 | [Hangout Link](https://meet.google.com/ejb-hezp-qch) |
